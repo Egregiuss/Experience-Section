@@ -1,3 +1,3 @@
 # John Smilga's React Project
 
-## Project 04 - Experience-Section
+## Project 06 - Experience-Section
